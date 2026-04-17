@@ -6,8 +6,8 @@ from urllib.parse import urlencode, quote
 
 # API endpoint URL's and access keys
 # https://developer.wmata.com/demokey
-WMATA_API_KEY = "cde46e9f5c8147618ab1ebfa14bb189c"
-MAPBOX_API_KEY = "pk.eyJ1IjoiemFraXlhd2lsbGlhbXM2MTciLCJhIjoiY21taTlibTVtMTJ0ajJvb2ZldzM0OWYzNiJ9.z99mdvtkD_8yzEYquEewxg"
+WMATA_API_KEY = "INSERT YOUR KEY"
+MAPBOX_API_KEY = "INSERT YOUR KEY"
 INCIDENTS_URL = "https://api.wmata.com/Incidents.svc/json/ElevatorIncidents"
 STATION_URL = "https://api.wmata.com/Rail.svc/json/jStationInfo"
 MAPBOX_URL = "https://api.mapbox.com/styles/v1/mapbox/streets-v12/static"
