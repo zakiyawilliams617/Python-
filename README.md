@@ -45,7 +45,7 @@ Implemented the Hill Cipher encryption algorithm in Python using NumPy, building
 Assignment: 
 
 
-# Module 13 – 
+# Module 13 – Concurrency and Parellelism
 Assignment: The Dining Philosopher's Problem
 Implemented Python's threading and locking primitives to simulate the Dining Philosophers concurrency problemm where five philosopher threads must coordinate shared fork resources without deadlock.
 
