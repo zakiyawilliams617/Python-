@@ -43,7 +43,7 @@ Implemented the Hill Cipher encryption algorithm in Python using NumPy, building
 
 # Module 12 – Data Science 2
 Assignment: 
-
+Build a flow graph in NetworkX for each team and the use the max flow algorithm to mathematically determine and print whether each team has been eliminated from playoff contention based on remainning game schedules and current standings. 
 
 # Module 13 – Concurrency and Parellelism
 Assignment: The Dining Philosopher's Problem
