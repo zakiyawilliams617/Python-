@@ -46,7 +46,8 @@ Assignment:
 
 
 # Module 13 – 
-Assignment: 
+Assignment: The Dining Philosopher's Problem
+Implemented Python's threading and locking primitives to simulate the Dining Philosophers concurrency problemm where five philosopher threads must coordinate shared fork resources without deadlock.
 
 # Module 14 - Collinearity (Final Exam)
 # Module 14 - Quantum Computing Simulator (Final Exam)
